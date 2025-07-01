@@ -1,4 +1,6 @@
-# Pulsar
+# NOTE TO EVERYONE!!!!
+
+PULSAR HAS BEEN TAKEN DOWN BY MASS REPORTERS. TO COMBAT THIS WE MADE A GITLAB PAGE. https://rat.ad for the official website. Thank you all and sorry for this happening.
 
 ![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/Quasar-Continuation/Pulsar-Lite/auto-build.yml)
 [![Downloads](https://img.shields.io/github/downloads/Quasar-Continuation/Pulsar-Lite/total.svg)](https://github.com/Quasar-Continuation/Pulsar-Lite/releases)
